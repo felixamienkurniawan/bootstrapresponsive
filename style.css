@@ -1,0 +1,29 @@
+.profil{
+	min-height: 200px;
+}
+
+.tentang {
+	min-height: 300px;
+}
+
+.galeri {
+	min-height: 400px;
+}
+
+.galeri img {
+	width: 150px;
+	height: 150px;
+}
+
+.kontak {
+	min-height: 200px;
+}
+
+footer {
+	color: #fff;
+	padding: 3px;
+}
+
+footer p {
+	padding-top: 5px;
+}
